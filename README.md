@@ -65,7 +65,7 @@ This lab demonstrates the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/ujI2X5P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Then we resolved the ticket with a reply of our solution for the issue at hand.
+- Then we resolved the ticket with a reply of our solution for the issue at hand and closed out the ticket.
 </p>
 <p>
 <img src="https://i.imgur.com/03c0Ie3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
