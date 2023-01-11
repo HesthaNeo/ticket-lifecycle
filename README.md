@@ -24,27 +24,49 @@ This lab demonstrates the lifecycle of a ticket from intake to resolution within
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- In this first section, we start using the ticketing system as essentially a Que Manager, going through and making sure that the tickets have the correct priority levels, SLAs, being assigned to other agents, on and so forth.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/PUjbNd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Here, we can see the ticket that came through from a client. I used this ticket to go through and update the right information and assign it a user to work on.
+</p>
+<p>
+<img src="https://i.imgur.com/6ggUZnI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/uTAElIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/GuDy9R7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/6cpQPhh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/oIJwyd6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- As you can see, this ticket has been updated with the correct credentials for this particular issue.
+</p>
+<p>
+<img src="https://i.imgur.com/7HCPqvD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/4DfO3Wr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- From there, I then signed in as the user "Jane Doe", since that is who the ticket was assigned to, and simulated a response as if we were actively working on the ticket.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ujI2X5P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Then we resolved the ticket with a reply of our solution for the issue at hand.
 </p>
-<br />
+<p>
+<img src="https://i.imgur.com/03c0Ie3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
